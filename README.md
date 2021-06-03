@@ -1,4 +1,4 @@
-# diapason
+# Diapason
 
 A new Flutter application.
 
