@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "165825194291",
+    "firebase_url": "https://diapason-18504.firebaseio.com",
+    "project_id": "diapason-18504",
+    "storage_bucket": "diapason-18504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165825194291:android:7053bdec16a926798a7646",
+        "android_client_info": {
+          "package_name": "com.laboudiguequentin.diapason"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165825194291-m56i1od0v34em8l0jrujuvbt21gk31g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEmrQSw1HZie7FhJHWk-hywj_xy7f3dU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165825194291-m56i1od0v34em8l0jrujuvbt21gk31g7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "165825194291-r4qltemujpt75es86rmj3b1m79g4t23m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.laboudiguequentin.diapason"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

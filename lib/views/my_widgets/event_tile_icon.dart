@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+import 'package:diapason/views/my_material.dart';
+
+class EventTileIcon extends StatelessWidget {
+
+  final IconData iconData;
+  final double iconSize;
+
+  EventTileIcon({@required this.iconData, @required this.iconSize});
+
+  @override
+  Widget build(BuildContext context) {
+    return Icon(
+      iconData,
+      color: kOrangeMainColor,
+      size: iconSize,
+    );
+  }
+}
+
