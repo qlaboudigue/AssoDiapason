@@ -1,16 +1,17 @@
 # Diapason
 
-A new Flutter application.
+Application of the Diapason association, based in Grenoble. Available for iOS and Android on both AppStore and PlayStore under the name "AssoDiapason".
+The main features of the app are : 
+- Account creation and login function
+- Event creation with participation buttons
+- Diplaying the list of finished projects with associated pictures
+- Displaying a list of activities and the associated leader among members
+- Displaying the list of shared items and the possibility for the owner to manage the lending parameters
+- Access members personnal informations
+- Managing undesirable content
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## To do
+- Add the "Spot" class
+- Minor bug correction : avoid event participation when a user did not give his name/surname
+- Set the tests through the whole code
+- Refactor code
