@@ -9,6 +9,7 @@ The main features of the app are :
 - Displaying the list of shared items and the possibility for the owner to manage the lending parameters
 - Access members personnal informations
 - Managing undesirable content
+- Notify all users at event, story, activity, item creation
 
 ## To do
 - Add the "Spot" class
